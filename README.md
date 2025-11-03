@@ -109,7 +109,7 @@ sns_topic_arn<br>
 c. **Alert threshold**<br>
 cpu_threshold
 
-4.  **Package for Lambda:** Install the necessary **`boto3` dependencies** in the same folder as your Python script (if not using the standard runtime) and **zip** the entire package for deployment to **AWS Lambda**.
+4.  **Package for Lambda:** Install the necessary **`boto3` dependencies** in the same folder as your Python script and **zip** the entire package for deployment to **AWS Lambda**.
 
 ---
 
